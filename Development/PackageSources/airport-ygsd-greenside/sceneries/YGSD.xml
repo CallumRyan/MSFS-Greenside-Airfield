@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport country="Australia" state="Western Australia" city="Muchea" name="Muchea (Greenside) Airport" ident="YGSD" lat="-31.52398176491261" lon="115.94266399741173" alt="0.00000000000000" magvar="1.500000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiName index="0" name=""/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

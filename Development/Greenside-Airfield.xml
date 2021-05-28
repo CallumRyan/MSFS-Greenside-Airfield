@@ -1,0 +1,8 @@
+<Project Version="2" Name="Greenside-Airfield" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\airport-ygsd-greenside.xml</Package>
+	</Packages>
+</Project>
+
