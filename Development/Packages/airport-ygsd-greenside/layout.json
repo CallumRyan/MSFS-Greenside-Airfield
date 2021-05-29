@@ -1,9 +1,19 @@
 {
   "content": [
     {
+      "path": "ContentInfo/airport-ygsd-greenside/Thumbnail.jpg",
+      "size": 18971,
+      "date": 132667565948822156
+    },
+    {
+      "path": "scenery/Remove-Buildings.bgl",
+      "size": 896,
+      "date": 132667575517678278
+    },
+    {
       "path": "scenery/YGSD.bgl",
-      "size": 477,
-      "date": 132667036693143843
+      "size": 3921,
+      "date": 132667575517639180
     }
   ]
 }

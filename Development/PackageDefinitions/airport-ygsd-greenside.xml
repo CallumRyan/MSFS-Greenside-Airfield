@@ -16,14 +16,14 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageDefinitions\airport-ygsd-greenside\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\airport-ygsd-greenside</OutputDir>
+			<OutputDir>ContentInfo\airport-ygsd-greenside\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\airport-ygsd-greenside\sceneries</AssetDir>
+			<AssetDir>PackageSources\airport-ygsd-greenside\sceneries\</AssetDir>
 			<OutputDir>scenery\\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
