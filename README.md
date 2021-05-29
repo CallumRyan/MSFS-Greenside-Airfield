@@ -12,4 +12,4 @@ The airfield consists of 2 runways:
 |Designation|Length|Material|Condition|
 |-|-|-|-|
 |09/27|1300 Metres (4265 feet)|Gravel|Serviceable|
-|[Confirm Designation]|[Confirm Length]|Gravel|Unserviceable
+|03/21|300 Metres (984 feet)|Gravel|Unserviceable|
