@@ -1,5 +1,25 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
+	<!--SceneryObject name: Container01-->
+	<SceneryObject lat="-31.52312630168634" lon="115.94708171352370" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6CFC8DEE-869D-4460-BFB5-F5E12FE5EE9D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence03-->
+	<SceneryObject lat="-31.52362550106261" lon="115.94581663749088" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-88.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D3AB249A-A581-431C-A3DC-7C4109C220C6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar01-->
+	<SceneryObject lat="-31.52295590245318" lon="115.94732292416549" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="88.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{65B40360-EADB-4927-82CB-A5AF526F5377}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar01-->
+	<SceneryObject lat="-31.52295105684584" lon="115.94759103267889" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="88.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{65B40360-EADB-4927-82CB-A5AF526F5377}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar09-->
+	<SceneryObject displayName="Main Hangar" lat="-31.52335526165361" lon="115.94708691167546" alt="0.00000000000000" pitch="0.000314" bank="-0.000314" heading="86.359491" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A44FB98A-F3B4-49D5-9887-29E2B547F267}" scale="0.600000"/>
+	</SceneryObject>
 	<SceneryObject displayName="Main Windsock" lat="-31.52426648089132" lon="115.94549334180275" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-7.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
@@ -8,48 +28,32 @@
 	</SceneryObject>
 	<Group displayName="North 27 Barrels">
 		<!--SceneryObject name: BarrelBlue01-->
-		<SceneryObject displayName="NB4" lat="-31.52389475711051" lon="115.94708465499316" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SceneryObject displayName="NB2" lat="-31.52388151784832" lon="115.94703212358843" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 			<LibraryObject name="{AFE9020C-787F-4BC1-A3A6-3F47C7500544}" scale="1.000000"/>
 		</SceneryObject>
 		<!--SceneryObject name: BarrelBlue01-->
-		<SceneryObject displayName="NB3" lat="-31.52388480947583" lon="115.94708496618280" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-			<LibraryObject name="{AFE9020C-787F-4BC1-A3A6-3F47C7500544}" scale="1.000000"/>
-		</SceneryObject>
-		<!--SceneryObject name: BarrelBlue01-->
-		<SceneryObject displayName="NB2" lat="-31.52387413942308" lon="115.94708511133287" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-			<LibraryObject name="{AFE9020C-787F-4BC1-A3A6-3F47C7500544}" scale="1.000000"/>
-		</SceneryObject>
-		<!--SceneryObject name: BarrelBlue01-->
-		<SceneryObject displayName="NB1" lat="-31.52386419178839" lon="115.94708542252251" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SceneryObject displayName="NB1" lat="-31.52386152794961" lon="115.94703336319284" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 			<LibraryObject name="{AFE9020C-787F-4BC1-A3A6-3F47C7500544}" scale="1.000000"/>
 		</SceneryObject>
 	</Group>
 	<Group displayName="South 27 Barrels">
 		<!--SceneryObject name: BarrelBlue01-->
-		<SceneryObject displayName="SB1" lat="-31.52408451149470" lon="115.94708279008638" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SceneryObject displayName="SB1" lat="-31.52408896677267" lon="115.94702194686990" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 			<LibraryObject name="{AFE9020C-787F-4BC1-A3A6-3F47C7500544}" scale="1.000000"/>
 		</SceneryObject>
 		<!--SceneryObject name: BarrelBlue01-->
-		<SceneryObject displayName="SB2" lat="-31.52407456386002" lon="115.94708310127602" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-			<LibraryObject name="{AFE9020C-787F-4BC1-A3A6-3F47C7500544}" scale="1.000000"/>
-		</SceneryObject>
-		<!--SceneryObject name: BarrelBlue01-->
-		<SceneryObject displayName="SB3" lat="-31.52406389380727" lon="115.94708324642609" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-			<LibraryObject name="{AFE9020C-787F-4BC1-A3A6-3F47C7500544}" scale="1.000000"/>
-		</SceneryObject>
-		<!--SceneryObject name: BarrelBlue01-->
-		<SceneryObject displayName="SB4" lat="-31.52405394617258" lon="115.94708355761573" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SceneryObject displayName="SB2" lat="-31.52407117420200" lon="115.94702204265424" alt="0.00000000000000" pitch="-82.732292" bank="105.725086" heading="74.395493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 			<LibraryObject name="{AFE9020C-787F-4BC1-A3A6-3F47C7500544}" scale="1.000000"/>
 		</SceneryObject>
 	</Group>
-	<Airport country="Australia" state="Western Australia" city="Muchea" name="Muchea (Greenside) Airport" ident="YGSD" lat="-31.52398176491261" lon="115.94266399741173" alt="0.00000000000000" magvar="1.500000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+	<Airport country="Australia" state="Western Australia" city="Muchea" name="Muchea (Greenside) Airport" ident="YGSD" lat="-31.52398176491261" lon="115.94266399741173" alt="0.00000000000000" magvar="1.500000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
 		<AirportGroup displayName="Parking" groupID="1" groupIndex="3"/>
 		<AirportGroup displayName="Taxiway" groupID="2" groupIndex="2"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="28" index="5" type="NORMAL" orientation="FORWARD" lat="-31.52381343757557" lon="115.94791888227024"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="29" index="6" type="NORMAL" orientation="FORWARD" lat="-31.52380829977815" lon="115.94779142027680"/>
-		<TaxiwayPoint parentGroupID="2" groupIndex="26" index="7" type="HOLD_SHORT" orientation="FORWARD" lat="-31.52380533052275" lon="115.94636000617679"/>
-		<TaxiwayPoint parentGroupID="2" groupIndex="27" index="8" type="HOLD_SHORT" orientation="FORWARD" lat="-31.52380622826620" lon="115.94596907099861"/>
-		<TaxiwayPoint parentGroupID="2" groupIndex="42" index="9" type="NORMAL" orientation="FORWARD" lat="-31.52378065480473" lon="115.94454409485604"/>
+		<TaxiwayPoint parentGroupID="2" groupIndex="26" index="7" type="HOLD_SHORT" orientation="FORWARD" lat="-31.52378435246426" lon="115.94637248900348"/>
+		<TaxiwayPoint parentGroupID="2" groupIndex="27" index="8" type="HOLD_SHORT" orientation="FORWARD" lat="-31.52379364615095" lon="115.94596205055983"/>
+		<TaxiwayPoint parentGroupID="2" groupIndex="42" index="9" type="NORMAL" orientation="FORWARD" lat="-31.52377444481313" lon="115.94454397676405"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="43" index="10" type="NORMAL" orientation="FORWARD" lat="-31.52375277005850" lon="115.94322052168188"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="44" index="11" type="NORMAL" orientation="FORWARD" lat="-31.52373410162498" lon="115.94201800336076"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="45" index="12" type="NORMAL" orientation="FORWARD" lat="-31.52369734138449" lon="115.93969795689503"/>
@@ -57,10 +61,9 @@
 		<TaxiwayPoint parentGroupID="2" groupIndex="48" index="14" type="NORMAL" orientation="FORWARD" lat="-31.52360479219853" lon="115.93747392935393"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="49" index="15" type="NORMAL" orientation="FORWARD" lat="-31.52378627045137" lon="115.93726522414248"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="50" index="16" type="NORMAL" orientation="FORWARD" lat="-31.52374317244304" lon="115.93357116026803"/>
-		<TaxiwayPoint parentGroupID="2" groupIndex="51" index="17" type="NORMAL" orientation="FORWARD" lat="-31.52326203772375" lon="115.93639942594042"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="46" index="18" type="NORMAL" orientation="FORWARD" lat="-31.52368298565447" lon="115.93872649751415"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="36" index="23" type="NORMAL" orientation="FORWARD" lat="-31.52326552434072" lon="115.94733733033011"/>
-		<TaxiwayPoint parentGroupID="2" groupIndex="33" index="24" type="NORMAL" orientation="FORWARD" lat="-31.52381293276106" lon="115.94734986428743"/>
+		<TaxiwayPoint parentGroupID="2" groupIndex="33" index="24" type="NORMAL" orientation="FORWARD" lat="-31.52377332765871" lon="115.94735354042332"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="31" index="25" type="NORMAL" orientation="FORWARD" lat="-31.52380243923023" lon="115.94765703855302"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="30" index="26" type="NORMAL" orientation="FORWARD" lat="-31.52379606745268" lon="115.94752294147521"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="6" index="27" type="NORMAL" orientation="FORWARD" lat="-31.52329944103200" lon="115.94748055461612"/>
@@ -69,7 +72,7 @@
 		<TaxiwayPoint parentGroupID="2" groupIndex="37" index="30" type="NORMAL" orientation="FORWARD" lat="-31.52335371980529" lon="115.94741326739759"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="1" index="31" type="NORMAL" orientation="FORWARD" lat="-31.52396442148324" lon="115.94708703221409"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="32" index="32" type="NORMAL" orientation="FORWARD" lat="-31.52391577615717" lon="115.94727111908351"/>
-		<TaxiwayPoint parentGroupID="2" groupIndex="25" index="33" type="NORMAL" orientation="FORWARD" lat="-31.52380577939448" lon="115.94616453858771"/>
+		<TaxiwayPoint parentGroupID="2" groupIndex="25" index="33" type="NORMAL" orientation="FORWARD" lat="-31.52379249620370" lon="115.94617222165158"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="3" index="34" type="NORMAL" orientation="FORWARD" lat="-31.52268943813858" lon="115.94676690018044"/>
 		<TaxiwayPoint parentGroupID="2" index="35" type="NORMAL" orientation="FORWARD" lat="-31.52508654739506" lon="115.94546846557836"/>
 		<TaxiwayParking displayName="Parking 1" parentGroupID="1" index="0" type="RAMP_GA_SMALL" lat="-31.52369420067144" lon="115.94752284185050" heading="180.000000" radius="6.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -79,8 +82,8 @@
 		<TaxiwayParking displayName="Parking 7" parentGroupID="1" groupIndex="12" index="4" type="RAMP_GA_SMALL" lat="-31.52327453727375" lon="115.94722922423342" heading="84.248077" radius="5.500000" name="PARKING" number="7" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking displayName="Parking 6" parentGroupID="1" groupIndex="10" index="19" type="RAMP_GA_SMALL" lat="-31.52338146461226" lon="115.94723826666774" heading="90.287079" radius="5.500000" name="PARKING" number="6" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking displayName="Parking 5" parentGroupID="1" groupIndex="8" index="20" type="RAMP_GA_SMALL" lat="-31.52348711776321" lon="115.94723967688675" heading="89.771545" radius="5.500000" name="PARKING" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking displayName="Parking 9" parentGroupID="1" groupIndex="16" index="21" type="RAMP_GA_SMALL" lat="-31.52316669769481" lon="115.94755538815735" heading="206.000000" radius="5.500000" name="PARKING" number="9" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking displayName="Parking 8" parentGroupID="1" groupIndex="14" index="22" type="RAMP_GA_SMALL" lat="-31.52316938372085" lon="115.94733491878951" heading="179.000000" radius="5.500000" name="PARKING" number="8" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="Parking 9" parentGroupID="1" groupIndex="16" index="21" type="RAMP_GA_SMALL" lat="-31.52309351801348" lon="115.94758193805890" heading="206.000000" radius="5.500000" name="PARKING" number="9" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="Parking 8" parentGroupID="1" groupIndex="14" index="22" type="RAMP_GA_SMALL" lat="-31.52309169530572" lon="115.94732910493030" heading="179.000000" radius="5.500000" name="PARKING" number="8" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<TaxiName index="1" name="Alpha"/>
 		<TaxiwayPath parentGroupID="1" groupIndex="1" type="PARKING" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}" centerLine="FALSE" start="26" end="0" width="6.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>

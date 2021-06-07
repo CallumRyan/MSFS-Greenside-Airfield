@@ -1,4 +1,4 @@
-<AssetPackage Name="airport-ygsd-greenside" Version="0.0.1">
+<AssetPackage Name="airport-ygsd-greenside" Version="0.0.2">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Greenside Airfield</Title>
@@ -15,7 +15,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\airport-ygsd-greenside\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\airport-ygsd-greenside\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\airport-ygsd-greenside\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
